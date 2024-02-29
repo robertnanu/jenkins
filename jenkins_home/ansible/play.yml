@@ -1,0 +1,4 @@
+- hosts: test2
+  tasks:
+
+    - shell: echo Hello World From Ansible and Jenkins > /tmp/ansible-file
