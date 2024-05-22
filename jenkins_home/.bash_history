@@ -303,3 +303,13 @@ cd ansible/
 ls
 cat play.yml 
 exit
+exit
+cd
+cd ansible/
+ls
+exit
+cd
+cd ansible/
+ls
+cat play.yml 
+exit
